@@ -1,1 +1,1 @@
-TOKEN = 'YOUR:own_private_secure-Bot_token'
+TOKEN = '5629565625:AAFVmHmIPPXD9Zh3Kb-B4dsn0YlbyOcR4ds'
